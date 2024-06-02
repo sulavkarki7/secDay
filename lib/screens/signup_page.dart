@@ -107,7 +107,7 @@ class _SignupPageState extends State<SignupPage> {
                           decoration: TextDecoration.underline),
                     ),
                   ],
-                ),
+                ), // row hp
 
                 const SizedBox(
                   height: 10,
